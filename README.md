@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/V-atharvan/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/V-atharvan/DSA/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/V-atharvan/DSA/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -14,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/V-atharvan/DSA/tree/master/0035-search-insert-position) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/V-atharvan/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
