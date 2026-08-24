@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/V-atharvan/DSA/tree/master/0007-reverse-integer) |
+| [0168-excel-sheet-column-title](https://github.com/V-atharvan/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/V-atharvan/DSA/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/V-atharvan/DSA/tree/master/0058-length-of-last-word) |
+| [0168-excel-sheet-column-title](https://github.com/V-atharvan/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0345-reverse-vowels-of-a-string](https://github.com/V-atharvan/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/V-atharvan/DSA/tree/master/3794-reverse-string-prefix) |
 <!---LeetCode Topics End-->
