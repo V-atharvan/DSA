@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/V-atharvan/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/V-atharvan/DSA/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/V-atharvan/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/V-atharvan/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3794-reverse-string-prefix](https://github.com/V-atharvan/DSA/tree/master/3794-reverse-string-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/V-atharvan/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
