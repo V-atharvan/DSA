@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/V-atharvan/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/V-atharvan/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/V-atharvan/DSA/tree/master/0136-single-number) |
+| [0349-intersection-of-two-arrays](https://github.com/V-atharvan/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/V-atharvan/DSA/tree/master/0485-max-consecutive-ones) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/V-atharvan/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/V-atharvan/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -18,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/V-atharvan/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/V-atharvan/DSA/tree/master/0075-sort-colors) |
 | [0345-reverse-vowels-of-a-string](https://github.com/V-atharvan/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/V-atharvan/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/V-atharvan/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/V-atharvan/DSA/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/V-atharvan/DSA/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/V-atharvan/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/V-atharvan/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
@@ -34,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/V-atharvan/DSA/tree/master/0075-sort-colors) |
+| [0349-intersection-of-two-arrays](https://github.com/V-atharvan/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/V-atharvan/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
@@ -75,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/V-atharvan/DSA/tree/master/0013-roman-to-integer) |
+| [0349-intersection-of-two-arrays](https://github.com/V-atharvan/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
