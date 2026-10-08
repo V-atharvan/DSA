@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/V-atharvan/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0345-reverse-vowels-of-a-string](https://github.com/V-atharvan/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/V-atharvan/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1021-remove-outermost-parentheses](https://github.com/V-atharvan/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/V-atharvan/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3794-reverse-string-prefix](https://github.com/V-atharvan/DSA/tree/master/3794-reverse-string-prefix) |
 ## Linked List
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/V-atharvan/DSA/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/V-atharvan/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Counting
 |  |
 | ------- |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/V-atharvan/DSA/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/V-atharvan/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
