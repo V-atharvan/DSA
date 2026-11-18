@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/V-atharvan/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1021-remove-outermost-parentheses](https://github.com/V-atharvan/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/V-atharvan/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/V-atharvan/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3794-reverse-string-prefix](https://github.com/V-atharvan/DSA/tree/master/3794-reverse-string-prefix) |
 ## Linked List
 |  |
